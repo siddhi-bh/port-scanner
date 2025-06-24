@@ -10,4 +10,4 @@ The scanner uses sockets and threading to speed up the scanning process.
 
 ### Run from command line:
 ```bash
-python scanner.py scanme.nmap.org 20 100
+python scanner.py.py scanme.nmap.org 20 100
